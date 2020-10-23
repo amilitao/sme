@@ -2,7 +2,7 @@ package br.com.amilitao.sme.model;
 
 import java.time.LocalDate;
 
-public class Emprestimo implements Movimentacao {
+public class Emprestimo {
 
 	private Empresa origem;
 	private Empresa destino;
